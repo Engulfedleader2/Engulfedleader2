@@ -18,7 +18,7 @@ Supabase • PostgreSQL • SQL Server • REST APIs
 C# • ASP.NET • VB.NET
 
 ### Game Development
-Godot • GDScript • C# • Unity
+Godot • C# • Unity
 
 ---
 
