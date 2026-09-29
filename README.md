@@ -6,6 +6,8 @@ Software Developer • iOS Developer • Indie Developer
 
 I enjoy building software, shipping products, and participating in game jams. Most of my projects focus on mobile apps, backend services, and game development.
 
+Co-founder of **[Loony Devs](https://loonydevs.com)** and builder of **[Vignette – Shared Camera](https://vignette.photo)**, **[Pivot Sports](https://pivotsports.app)**, and **[Guess What – APOD Edition](https://guesswhat-space.vercel.app)** on the App Store.
+
 ##  Tech Stack
 
 ### Mobile
@@ -23,6 +25,31 @@ Godot • C# • Unity
 ---
 
 #  Published Apps & Games
+
+##  Vignette – Shared Camera
+
+**Platform:** iOS & iPadOS
+
+**Published by:** [Loony Devs](https://loonydevs.com)
+
+*One event. Everyone's photos.*
+
+A shared disposable-camera app for parties, weddings, trips, and events. Guests join with a code, snap a limited number of shots, and every photo stays hidden until the host ends the event — then the whole night unlocks at once.
+
+### Features
+- Join with a 6-Character Event Code
+- No Account Required for Guests
+- Limited Shots per Guest (Disposable Camera Style)
+- Hidden Photos Until the Group Reveal
+- Shared Event Gallery
+- Host Plus Subscription for Larger Events
+
+### Links
+🌐 [Website](https://vignette.photo)
+
+📱 [App Store](https://apps.apple.com/us/app/vignette-shared-camera/id6792618434)
+
+---
 
 ##  Pivot Sports
 
@@ -65,9 +92,9 @@ A daily space trivia game inspired by NASA's Astronomy Picture of the Day. Playe
 SwiftUI • Supabase • OneSignal
 
 ### Links
-🌐 Website Coming Soon
+🌐 [Website](https://guesswhat-space.vercel.app)
 
-📱 https://apps.apple.com/us/app/guess-what-apod-edition/id6747625819
+📱 [App Store](https://apps.apple.com/us/app/guess-what-apod-edition/id6747625819)
 
 ---
 
@@ -108,8 +135,7 @@ Play as Keya, guardian of the shrine, and help the town of Bloom manage magical 
 ### Tech
 Godot
 
- Play on itch.io:
-https://engulfedleader2.itch.io/blossoms-out-of-time
+🎮 [Play on itch.io](https://engulfedleader2.itch.io/blossoms-out-of-time)
 
 Status: Released
 
@@ -121,13 +147,14 @@ Status: Released
 
 Simple iOS tip calculator built to practice app architecture and App Store deployment.
 
-📱 https://apps.apple.com/us/app/tipzy-tipcalculator/id6749466752
+📱 [App Store](https://apps.apple.com/us/app/tipzy-tipcalculator/id6749466752)
 
 ---
 
 
 # Current Focus
 
+- Growing Vignette
 - Growing Pivot Sports
 - Developing Orbit Miner
 - Participating in Game Jams
@@ -135,9 +162,21 @@ Simple iOS tip calculator built to practice app architecture and App Store deplo
 
 ---
 
+# Find Me
+
+🏢 [Loony Devs](https://loonydevs.com)
+
+🌐 [vignette.photo](https://vignette.photo) • [pivotsports.app](https://pivotsports.app) • [Guess What](https://guesswhat-space.vercel.app)
+
+🎮 [itch.io](https://engulfedleader2.itch.io)
+
+---
+
 
  ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=EngulfedLeader2&show_icons=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Engulfedleader2&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EngulfedLeader2&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=Engulfedleader2)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Engulfedleader2&theme=default)
